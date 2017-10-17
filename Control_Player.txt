@@ -1,0 +1,2 @@
+Jump - MouseButton(1). //(The longer you press, the higher player jump)
+Pull dragon away - MouseButton(2). //(You need 1 coin to do this)
