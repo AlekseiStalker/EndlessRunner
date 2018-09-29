@@ -1,4 +1,4 @@
-# EndlessRunner_SmithysoftTask
+# EndlessRunner 
 
 The essence of this game is in its title. A distinctive feature of the game is the ability to be saved at any time. 
 Saving the game is implemented using a format JSON.
