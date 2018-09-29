@@ -6,8 +6,11 @@ Saving the game is implemented using a format JSON.
 The task of the player is to be on the moving platforms as much time as possible and be save from the dragon.
  
 Control: 
-Jump - MouseButton (1) (right click). // (The longer you press, the higher player jump) 
-Pull dragon away - MouseButton (2) (middle scroll click). // (You need 1 coin to do this)
+- Jump - MouseButton (1) (right click). _ _(The longer you press, the higher player jump) _ _
+- Pull dragon away - MouseButton (2) (middle scroll click). _ _ (You need 1 coin to do this) _ _
 
 
 ![game](https://user-images.githubusercontent.com/29926552/31667468-360b6d66-b358-11e7-8b46-b2c93ede7c21.png)
+
+![dragon](https://user-images.githubusercontent.com/29926552/46247569-f810ad80-c415-11e8-95bf-c90f94052ea8.png)
+
