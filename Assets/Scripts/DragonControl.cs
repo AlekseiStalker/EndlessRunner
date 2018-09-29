@@ -35,7 +35,7 @@ public class DragonControl : MonoBehaviour
         float positionY = Mathf.Clamp(playerControl.transform.position.y, -2, 2);
         transform.position = new Vector3(transform.position.x, positionY, 0);
 
-        if (Input.GetMouseButtonDown(2) && GameManager.instance.coint >= 1)
+        if (Input.GetMouseButtonDown(0) && GameManager.instance.coint >= 1)
         {
             StartCoroutine(LeaveGragonText());
             GameManager.instance.UpdateCointText(--GameManager.instance.coint);
